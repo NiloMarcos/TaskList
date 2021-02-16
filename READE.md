@@ -1,7 +1,7 @@
-# tasklist
+# TaskList
    TaskList será um aplicativo de marcação de tarefas.
 
- ## ConsultaFipe
+ ## TaskList
   O aplicativo consistirá em uma única tela, contendo inicialmente os seguintes campos para consulta:
 
     * Um campo de texto para que seja informada a tarefa a ser concluida.
